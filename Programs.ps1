@@ -1,0 +1,1 @@
+Get-WmiObject Win32_Product | Select-Object Name,Vendor,Version,Caption
